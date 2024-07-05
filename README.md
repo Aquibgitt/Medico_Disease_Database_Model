@@ -1,1 +1,1 @@
-We created  a Project which has the Disease Model which has the Fact and Dimension tables.
+We created a Hospital database with the Disease Model with the Fact and Dimension tables.
